@@ -1,0 +1,42 @@
+Python 3.5.3 (v3.5.3:1880cb95a742, Jan 16 2017, 15:51:26) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/test02/Desktop/swethsns python/reversed pyramid pattern.py 
+enter no of rows6
+* * * * * * 
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+>>> 
+= RESTART: C:/Users/test02/Desktop/swethsns python/number series 1+11+...py =
+enter the n value:7
+series are 1 11 111 1111 11111 111111 1111111 
+series sum = 1234567
+>>> 
+= RESTART: C:/Users/test02/Desktop/swethsns python/number series 1+11+...py =
+enter the n value:7
+series are,1,11,111,1111,11111,111111,1111111,
+series sum = 1234567
+>>> 
+= RESTART: C:/Users/test02/Desktop/swethsns python/number series 1+11+...py =
+enter the n value:
+==== RESTART: C:/Users/test02/Desktop/swethsns python/number patterns.py ====
+11111
+2222
+333
+44
+5
+>>> 
+==== RESTART: C:/Users/test02/Desktop/swethsns python/number patterns.py ====
+1 1 1 1 1 
+2 2 2 2 
+3 3 3 
+4 4 
+5 
+>>> 
+====== RESTART: C:/Users/test02/Desktop/swethsns python/armstrong no.py ======
+enter a no2
+not a armstrong no
+>>> 
